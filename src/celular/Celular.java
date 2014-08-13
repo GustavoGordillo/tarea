@@ -1,7 +1,7 @@
 //Universidad del Valle de Guatemala
 //Algoritmos y estructura de datos
 //Autores:
-//Jose Cruz #13258
+//Mario Barrientos #13039
 //Gustavo Gordillo #13254
 //Programa:
 //Este programa se encarga de ordenar una lista estatica de nodos.
